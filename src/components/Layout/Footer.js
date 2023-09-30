@@ -67,13 +67,13 @@ export const Footer = () => {
                         </a>
                     </div>
                     -
-                    <div className={classes['privacy__policy']}>
+                    <div className={classes['privacy__conditions']}>
                         <a href='#' className={classes['policy__link']}>
                             Privacy policy
                         </a>
                     </div>
                     -
-                    <div className={classes['privacy__cookie']}>
+                    <div className={classes['privacy__conditions']}>
                         <a href='#' className={classes['cookie__link']}>
                             Cookie policy
                         </a>
